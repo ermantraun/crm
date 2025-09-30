@@ -1,0 +1,3 @@
+# Placeholder lockfile. Сгенерируйте финальный:
+# poetry lock
+# poetry install --no-root
